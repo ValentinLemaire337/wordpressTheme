@@ -23,7 +23,19 @@ body{
 	top: 32px; /* on prend en compte le décalage */
 }
 
+.container{
+    background-color: #39464C;
+    color : white;
+}
+
 .footerArticles{
+    display: flex;
+    flex-direction: row;
+    background-color: #39464C;
+    color : white;
+}
+
+.infos{
     background-color: #39464C;
     color : white;
 }
@@ -35,6 +47,11 @@ body{
 .card{
     text-align: center;
     
+}
+
+.card img{
+    width: 300px;
+    height: 300px;
 }
 .card-body{
     background-color: white;
