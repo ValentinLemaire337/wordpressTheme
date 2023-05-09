@@ -1,0 +1,49 @@
+/*
+Theme Name: montheme
+Theme URI: https://capitainewp.io
+Author: Maxime BERNARD-JACQUET
+Author URI: https://dysign.fr
+Description: Mon premier thème !
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.menu {
+    position: fixed;
+    top: 0px;
+}
+
+.admin-bar .menu {
+	top: 32px; /* on prend en compte le décalage */
+}
+
+.footerArticles{
+    background-color: #39464C;
+    color : white;
+}
+
+.footerArticles a{
+    text-decoration: none;
+}
+
+.card{
+    text-align: center;
+    
+}
+.card-body{
+    background-color: white;
+}
+
+.card-body h3{
+    color: #08AEEA;
+}
+
+.card-body p{
+    color: black;
+}
