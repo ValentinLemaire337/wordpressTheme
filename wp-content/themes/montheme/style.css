@@ -23,6 +23,10 @@ body{
 	top: 32px; /* on prend en compte le décalage */
 }
 
+.footerImg{
+    width: 100%;
+}
+
 .container{
     background-color: #39464C;
     color : white;
@@ -38,6 +42,7 @@ body{
 .infos{
     background-color: #39464C;
     color : white;
+    padding: 1px;
 }
 
 .footerArticles a{

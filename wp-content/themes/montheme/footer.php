@@ -1,5 +1,7 @@
+<?php wp_footer(); ?>
+
 <div class="row">
-    <img src="/wp-content/themes/montheme/img/Contrast 2.png" alt="mountain landscape">
+    <img class="footerImg" src="/wp-content/themes/montheme/img/Contrast 2.png" alt="mountain landscape">
 
     <div class="container">
         <h5>DECOUVREZ</h5>
@@ -55,8 +57,6 @@
             </div>
 
 
-
-<?php wp_footer(); ?>
 
 </body>
 </html>
