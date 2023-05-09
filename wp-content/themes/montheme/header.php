@@ -24,7 +24,7 @@
             <a href="">Catégorie 3</a>
         </div>
         <div>
-            <img src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a 1.png" alt="A woman lying in sandbeach">
+            <img class="woman" src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a 1.png" alt="A woman lying in sandbeach">
             <img class="blueShadow" src="/wp-content/themes/montheme/img/image 19.png" alt="">
         </div>
 
