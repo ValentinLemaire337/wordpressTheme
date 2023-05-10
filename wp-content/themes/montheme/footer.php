@@ -1,7 +1,7 @@
 <?php wp_footer(); ?>
 
 <div class="row">
-    <img class="footerImg" src="/wp-content/themes/montheme/img/Contrast 2.png" alt="mountain landscape">
+    <img class="footerImg" src="/wp-content/themes/montheme/img/Contrast2.png" alt="mountain landscape">
 
     <div class="container col-md-12">
         <h5>DECOUVREZ</h5>

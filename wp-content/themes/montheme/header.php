@@ -25,7 +25,7 @@
         </div>
         <div>
             <img class="woman" src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a1.png" alt="A woman lying in sandbeach">
-            <!-- <img class="blueShadow" src="/wp-content/themes/montheme/img/image19.png" alt=""> -->
+            <img class="blueShadow" src="/wp-content/themes/montheme/img/image19.png" alt="">
         </div>
 
     </header>
