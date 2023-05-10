@@ -23,14 +23,14 @@ body{
 	top: 32px; /* on prend en compte le décalage */
 }
 
- .woman,
+ /* .woman,
 .blueShadow{
     position: absolute;
     left: 0%;
     right: 0%;
     top: 26.52%;
     bottom: 0%;
-}
+} */
 
 .footerImg{
     width: 100%;
