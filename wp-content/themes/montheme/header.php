@@ -20,8 +20,7 @@
         </div>
         <div>
             <a href="">Catégorie 1</a>
-            <a href="">Catégorie 2</a>
-            <a href="">Catégorie 3</a>
+            
         </div>
         <div>
             <img class="woman" src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a1.png" alt="A woman lying in sandbeach">
