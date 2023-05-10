@@ -15,7 +15,7 @@
     <header class="header">
         <div>
             <a href="<?php echo home_url( '/' ); ?>">
-                <img src="<?php echo get_template_directory_uri(); ?>/img/image 45.png" alt="Logo">
+                <img src="<?php echo get_template_directory_uri(); ?>/img/image45.png" alt="Logo">
             </a>  
         </div>
         <div>
@@ -24,8 +24,8 @@
             <a href="">Catégorie 3</a>
         </div>
         <div>
-            <!-- <img class="woman" src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a 1.png" alt="A woman lying in sandbeach">
-            <img class="blueShadow" src="/wp-content/themes/montheme/img/image 19.png" alt=""> -->
+            <!-- <img class="woman" src="/wp-content/themes/montheme/img/istockphoto-1207798556-170667a1.png" alt="A woman lying in sandbeach">
+            <img class="blueShadow" src="/wp-content/themes/montheme/img/image19.png" alt=""> -->
         </div>
 
     </header>
