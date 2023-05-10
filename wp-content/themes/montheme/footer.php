@@ -3,7 +3,7 @@
 <div class="row">
     <img class="footerImg" src="/wp-content/themes/montheme/img/Contrast 2.png" alt="mountain landscape">
 
-    <div class="container">
+    <div class="container col-md-12">
         <h5>DECOUVREZ</h5>
         <h3>Articles les plus populaires</h3>
         <img src="/wp-content/themes/montheme/img/Shape 1.png" alt="shape">
