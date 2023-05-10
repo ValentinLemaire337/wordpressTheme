@@ -5,18 +5,19 @@
 
 		<article class="post">
 			<h2><?php the_title(); ?></h2>
-
+            <p>
         	<?php the_post_thumbnail(); ?>
-            
+            </p>
             <p class="post__meta">
                 Publié le <?php the_time( get_option( 'date_format' ) ); ?> 
                 par <?php the_author(); ?> • <?php comments_number(); ?>
             </p>
+            <p>
       		<?php the_excerpt(); ?>
+            </p>
       		<p>
                 <a href="<?php the_permalink(); ?>" class="post__link">Lire la suite</a>
             </p>
 		</article>
-
 	<?php endwhile; endif; ?>
 <?php get_footer(); ?>
