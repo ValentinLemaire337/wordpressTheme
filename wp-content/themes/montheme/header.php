@@ -19,7 +19,7 @@
             </a>  
         </div>
         <div>
-            <a href="">Catégorie 1</a>
+            <a href="http://wordpresstheme.localhost/categorie_1">Catégorie 1</a>
             
         </div>
         <div>
